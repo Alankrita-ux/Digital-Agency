@@ -1,0 +1,15 @@
+{
+  "name": "digital-agency",
+  "version": "1.0.0",
+  "description": "Digital Agency",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "homepage": "https://github.com/Alankrita-ux/Digital-Agency",
+  "author": "Alankrita Prasad",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
